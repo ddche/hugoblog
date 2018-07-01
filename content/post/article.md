@@ -21,6 +21,6 @@ And it seems that a kiss had sealed your mouth
 
 好像你的目光已经游离而去，
 
-如同一个吻，封缄了你的嘴:
+如同一个吻，封缄了你的嘴
 ---
 

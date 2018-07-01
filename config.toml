@@ -1,6 +1,6 @@
-baseURL = "https://just4tuts.github.io/"
+baseURL = "https://ddche.github.io/"
 theme = "hugo-goa"
-author = "M.G"
+author = "cdd"
 title = "Another Hugo Blog"
 builddrafts = false
 canonifyurls = false
@@ -39,3 +39,9 @@ highlightjs = true
     weight = 100
     identifier = "blog"
     url = "/post/"
+
+[[menu.main]]
+    name = "dd"
+    weight = 100
+    identifier = "blog"
+    url = "/post/"    
